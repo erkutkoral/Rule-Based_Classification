@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/erkutkoral/Rule-Based_Classification">
-    <img src="https://buildfire.com/wp-content/uploads/2017/10/ios-vs-android-users.jpg" alt="Logo" width="400" height="400">
+    <img src="https://buildfire.com/wp-content/uploads/2017/10/ios-vs-android-users.jpg" alt="Logo" width="600" height="400">
   </a>
 
   <h3 align="center">Rule-Based Classification Project</h3>
